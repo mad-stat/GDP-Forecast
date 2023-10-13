@@ -20,5 +20,5 @@ This GitHub repository provides a demonstration of the implementation of differe
 
 * The overall performance of the models indicates that the hybrid transformation-based models are most suitable for handling the structural breaks in the dataset. The linearity of the series is best modeled using the WARIMA framework, which is evident from the plot.
 
-The GDP of Saudi Arabia depends on a large number of economic and financial factors which demand the cointegration modeling approaches for generating an accurate forecast. However, in the lack of additional information, using the wavelet-based forecasting models for modeling the historical GDP growth series can be considered as a suitable starting point.
+The GDP of Saudi Arabia depends on a large number of economic and financial factors which demand the cointegration modeling approaches for generating an accurate forecast. However, in the lack of additional information, using the wavelet-based forecasting frameworks for modeling the historical GDP growth series can be considered as a suitable starting point.
   
